@@ -1,0 +1,31 @@
+Race,Gender,Control,4 Year Grad  rate,6 Year Grad Rate
+Asian,Female,Public,28.41,49.89
+Asian,Female,Private For Profit,27.95,36.46
+Asian,Female,Private Not for Profit,46.370000000000005,59.57
+Asian,Male,Public,20.810000000000002,43.81
+Asian,Male,Private For Profit,20.35,30.380000000000003
+Asian,Male,Private Not for Profit,38.77,53.49
+American Indian,Female,Public,20.2,39.58
+American Indian,Female,Private For Profit,19.74,26.15
+American Indian,Female,Private Not for Profit,38.16,49.26
+American Indian,Male,Public,12.6,33.5
+American Indian,Male,Private For Profit,12.139999999999999,20.07
+American Indian,Male,Private Not for Profit,30.559999999999995,43.18
+White,Female,Public,28.35,49.46
+White,Female,Private For Profit,27.89,36.03
+White,Female,Private Not for Profit,46.31,59.14
+White,Male,Public,20.75,43.38
+White,Male,Private For Profit,20.29,29.950000000000003
+White,Male,Private Not for Profit,38.71,53.06
+Black,Female,Public,17.08,38.26
+Black,Female,Private For Profit,16.619999999999997,24.83
+Black,Female,Private Not for Profit,35.04,47.94
+Black,Male,Public,9.479999999999999,32.18
+Black,Male,Private For Profit,9.019999999999998,18.75
+Black,Male,Private Not for Profit,27.439999999999998,41.86
+Hispanic,Female,Public,21.86,43.14
+Hispanic,Female,Private For Profit,21.4,29.71
+Hispanic,Female,Private Not for Profit,39.82,52.82
+Hispanic,Male,Public,14.26,37.06
+Hispanic,Male,Private For Profit,13.799999999999999,23.630000000000003
+Hispanic,Male,Private Not for Profit,32.22,46.74
